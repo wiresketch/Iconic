@@ -12,7 +12,7 @@
 
 ### Generating SVGs
 
-There is a Ruby script that ajust original SVG files. This script can be found at _scripts/vector wiresketch/adjust-vector-svg.rb_. It ensures that all icons are centered inside a square 32x32 viewport, and adjusts all icons to use black stroke and fill.
+There is a Ruby script that ajusts original SVG files. This script can be found at _scripts/vector wiresketch/adjust-vector-svg.rb_. It ensures that all icons are centered inside a square 32x32 viewport, and adjusts all icons to use black stroke and fill.
 
 ##Licensing 
 
